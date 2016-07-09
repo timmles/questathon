@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/questathon.iml" filepath="$PROJECT_DIR$/.idea/modules/questathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/questathon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/questathon_main.iml" group="questathon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/questathon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/questathon_test.iml" group="questathon" />
+    </modules>
+  </component>
+</project>
